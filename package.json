@@ -3,6 +3,7 @@
     "version": "1.1.6",
     "description": "Resume",
     "main": "lib/index.js",
+    "homepage": "http://sabaturgay.github.io/resume",
     "scripts": {
         "dev": "yarn start",
         "eject": "react-scripts eject",
