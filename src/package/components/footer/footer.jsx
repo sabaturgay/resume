@@ -28,7 +28,7 @@ const FooterComponent = () => {
     if (useSmallLayout) {
         return (
             <div className={cn(classes.container, useSmallLayout && classes.smallLayoutContainer)}>
-                <div className={classes.wldLogoGithubLogoContainer}>
+                {/* <div className={classes.wldLogoGithubLogoContainer}>
                     <a
                         className={classes.logoLink}
                         href="https://welovedevs.com"
@@ -55,14 +55,14 @@ const FooterComponent = () => {
                         </a>
                     </Tooltip>
                 </div>
-                <ShareLinks useSmallLayout />
+                <ShareLinks useSmallLayout /> */}
             </div>
         );
     }
 
     return (
         <div className={classes.container}>
-            <a className={classes.logoLink} href="https://welovedevs.com" target="_blank" rel="noreferrer noopener">
+            {/* <a className={classes.logoLink} href="https://welovedevs.com" target="_blank" rel="noreferrer noopener">
                 <Logo className={classes.logo} />
             </a>
             <ShareLinks />
@@ -79,7 +79,7 @@ const FooterComponent = () => {
                 >
                     <GithubLogo className={classes.githubLogo} />
                 </a>
-            </Tooltip>
+            </Tooltip> */}
         </div>
     );
 };

@@ -190,16 +190,6 @@
     "projects": [
         {
             "index": 0,
-            "date": "2019-06-30T21:00:00.000Z",
-            "description": "An API to build knowledge graphs, mind maps and 2D scenes easily. It is powered with most used frameworks (React, PIXI.js, Cytoscapejs). Two other projects built on top of PerfectGraph.\n",
-            "id": "af8c78c3-f7c6-4f3b-9c32-9d37a9032e14",
-            "images": [],
-            "link": "https://sabaturgay.github.io/perfect-graph-docs/",
-            "name": "PerfectGraph",
-            "endDate": "2019-07-01"
-        },
-        {
-            "index": 1,
             "date": "2020-10-31T21:00:00.000Z",
             "description": "The platform for viewing and editing graph data collaboratively. You can create different views and introspections for the same data. It supports more than one graph algorithms and layouts.\n",
             "id": "c64e6ca1-6300-4d7f-a305-8cfb7c99a9e6",
@@ -207,6 +197,16 @@
             "link": "https://next-starter-ibu0ukvcz-sabaturgay.vercel.app/Graph/CaseLawExplorer",
             "name": "CaseLawExplorer",
             "endDate": "2020-11-01"
+        },
+        {
+            "index": 1,
+            "date": "2019-06-30T21:00:00.000Z",
+            "description": "An API to build knowledge graphs, mind maps and 2D scenes easily. It is powered with most used frameworks (React, PIXI.js, Cytoscapejs). Two other projects built on top of PerfectGraph.\n",
+            "id": "af8c78c3-f7c6-4f3b-9c32-9d37a9032e14",
+            "images": [],
+            "link": "https://sabaturgay.github.io/perfect-graph-docs/",
+            "name": "PerfectGraph",
+            "endDate": "2019-07-01"
         },
         {
             "index": 2,
