@@ -5,7 +5,7 @@
     "main": "lib/index.js",
     "homepage": "http://sabaturgay.github.io/resume",
     "scripts": {
-        "dev": "yarn start",
+        "dev": "react-scripts start",
         "eject": "react-scripts eject",
         "test": "react-scripts test",
         "build": "react-scripts build"
