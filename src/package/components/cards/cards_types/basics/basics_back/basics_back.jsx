@@ -98,7 +98,7 @@ const BasicsBackComponent = ({ data, handleAddButtonClick }) => {
             },
             codingYears: {
                 title: <FormattedMessage id="Basics.Back.CodingYears.title" defaultMessage="Experience" />,
-                hide: Number.isNaN(Number(codingYears)),
+                hide: true, //Number.isNaN(Number(codingYears)),
                 value: <CodingYears codingYears={codingYears} />
             },
             studies: {

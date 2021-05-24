@@ -250,14 +250,14 @@
             "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
             "images": [],
             "link": "",
-            "name": "Freelancer as FullStack Developer ",
+            "name": "Freelancer as Full-stack Developer ",
             "endDate": "2017-01-01"
         }
     ],
     "specific": {
         "basics": {
             "visaSponsorship": false,
-            "personalDescription": "I am passionate person about web technologies. I started working as FullStack Developer while at university, I have 5 years experience. I use modern web development tools like React, TypeScript, GraphQL. "
+            "personalDescription": "I am passionate person about web technologies. I started working as Full-stack Developer while at university, I have 5 years experience. I use modern web development tools like React, TypeScript, GraphQL. "
         },
         "dreamJob": {
             "locations": [
@@ -280,7 +280,7 @@
             "searchState": "openOpportunities",
             "experienceYears": 5,
             "codeExperienceYears": 5,
-            "otherExperienceYears": 5
+            "otherExperienceYears":""
         },
         "sound": {
             "embedUrl": ""
