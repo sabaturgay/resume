@@ -206,7 +206,7 @@
         {
             "index": 0,
             "date": "2019-06-30T21:00:00.000Z",
-            "description": "An API to build knowledge graphs, mind maps and 2D scenes easily. It is powered with most used frameworks (React, PIXI.js, Cytoscapejs). Two other projects built on top of PerfectGraph.\n",
+            "description": "An API to build knowledge graphs, mind maps and 2D scenes easily. It is powered with most used frameworks (React, ReactNative Web, PIXI.js, Cytoscapejs). Two other projects built on top of PerfectGraph.\n",
             "id": "af8c78c3-f7c6-4f3b-9c32-9d37a9032e14",
             "images": [],
             "link": "https://sabaturgay.github.io/perfect-graph-docs/",
@@ -257,7 +257,7 @@
     "specific": {
         "basics": {
             "visaSponsorship": false,
-            "personalDescription": "I am passionate person about web technologies. I started working as Full-stack Developer while at university, I have 5 years experience. I use modern web development tools like React, TypeScript, GraphQL. "
+            "personalDescription": "I am passionate person about web and mobile technologies. I started working as Full-stack Developer while at university, I have 5 years experience. I use modern development tools like React, ReactNative, TypeScript, GraphQL. "
         },
         "dreamJob": {
             "locations": [
